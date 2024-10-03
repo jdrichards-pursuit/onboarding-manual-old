@@ -169,21 +169,21 @@ console.log(
 );
 ```
 
-[Main Page][main-page]
+[Main Page](https://github.com/jdrichards-pursuit/onboarding-manual-old)
 
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
-[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
+[navigate-to-zoom-room]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-[division-responsibilities]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/division-of-responsibilities.md
+[division-responsibilities]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/division-of-responsibilities.md
 [gravatar]: https://en.gravatar.com/
 [x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
 [assessment-checker]: https://github.com/appacademy/assessment_checker
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
-[assessment-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
+[assessment-questions]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
 [discourse]: https://discourse.appacademy.io/
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [progress-tracker]: https://progress.appacademy.io/
@@ -197,8 +197,8 @@ console.log(
 [instructor-dashboard]: https://instructor-dashboard.herokuapp.com/
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
-[lecture-tips]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
+[lecture-tips]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/LectureTips.md
 [debugging]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.yf44acf1qaiy
 [anatomy-of-answering-questions]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit#heading=h.tu721xd89uwd
-[main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
-[how-to-answer-student-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions.md
+[main-page]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide
+[how-to-answer-student-questions]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions.md

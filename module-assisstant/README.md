@@ -40,9 +40,9 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/tree/staging/content
 [app-academy-open]: https://open.appacademy.io/
-[navigate-to-zoom-room]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
+[navigate-to-zoom-room]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/Resources/ModuleZoomRoom.md
 [instructional-guide]: https://appacademy.github.io/instruction-guide/learning/
-[division-of-responsibilities]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/division-of-responsibilities.md
+[division-of-responsibilities]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/division-of-responsibilities.md
 [gravatar]: https://en.gravatar.com/
 [x-curriculum-guideline]: https://github.com/appacademy/curriculum-developer-guide/wiki/Instruction-x-Curriculum-Workflow
 [modular-curriculum]: https://github.com/appacademy/Modular-Curriculum/
@@ -50,7 +50,7 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [online-stopwatch]: https://www.google.com/search?q=stopwatch&oq=stopwatch&aqs=chrome..69i57.3448j0j1&sourceid=chrome&ie=UTF-8
 [release-curriculum]: https://appacademyio.atlassian.net/wiki/spaces/CUR/pages/534675541/App+Academy+Online+-+How+to+Enroll+People+in+Courses
 [setup-assessment]: https://docs.google.com/document/d/1BcGqC1cAZvn-kYW-1QnN4A1id8GN_UB0K2XmgAcVqsg/edit
-[assessment-questions]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
+[assessment-questions]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/handling-assessment-questions.md
 [kahoot-account]: https://kahoot.com/
 [what-is-kahoot]: https://kahoot.com/what-is-kahoot/
 [1password]: https://1password.com/
@@ -70,4 +70,4 @@ Refer to the [Division of Responsibilities][division-of-responsibilities] to kno
 [instructor-guide]: https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit
 [confluence]: https://appacademyio.atlassian.net/wiki/spaces/IN/overview
 [pod-setup]: https://vimeo.com/558726174/fe80adb397
-[main-page]: https://github.com/jdrichardsappacad/AppAcademy-Online-Onboarding-Instruction-Guide
+[main-page]: https://github.com/jdrichards-pursuit/onboarding-manual-old/AppAcademy-Online-Onboarding-Instruction-Guide
