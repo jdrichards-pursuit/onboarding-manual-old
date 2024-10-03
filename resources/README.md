@@ -1,7 +1,7 @@
 # Resources
 
 1. [Student Code Of Conduct](./code-of-conduct.md)
-1. [Lecture Tips](lecture-tips.mdlecture-tips)
+1. [Lecture Tips](./lecture-tips.md)
 1. [Navigate to Your Zoom Room](./module-zoom-room.md)
 1. [Code to compute Instructor Feedback Average](./instructor-feedback-average.js)
 1. [Curriculum Developer Guide](./curriculum-developer-guide)
