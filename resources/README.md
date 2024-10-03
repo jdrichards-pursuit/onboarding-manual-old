@@ -1,4 +1,5 @@
 # Resources
+These links, if not part of the repo, mostly don't work anymore since I don't work there.
 
 1. [Student Code Of Conduct](./code-of-conduct.md)
 1. [Lecture Tips](./lecture-tips.md)
@@ -20,4 +21,4 @@
 1. [Andragogy](https://en.wikipedia.org/wiki/Andragogy)
 1. [AppAcademy Online Onboarding Instruction Guide](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/)
 1. [How to answer student questions-2021](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/how-to-answer-student-questions-2021.md)
-1. [Curriculum Developer Guide](https://github.com/appacademy/curriculum-developer-guide)
+
