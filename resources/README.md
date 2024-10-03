@@ -17,7 +17,7 @@
 1. [Curriculum Developer Guide](https://github.com/appacademy/curriculum-developer-guide/wiki)
 1. [Curriculum Development](https://github.com/appacademy/curriculum-developer-guide)
 1. [Instructor Guide](https://docs.google.com/document/d/155tlfvARPjUxMY5ay9GZcr0soJ6R1RSdORh6tMIQbdQ/edit)
-1. [Adult Learning Theories](https://elearningindustry.com/)the-adult learning theory andragogy-of-malcolm-knowles
+1. [Adult Learning Theories](https://elearningindustry.com/)
 1. [Malcolm Knowles 6 Assumptions](https://hrdevelopmentinfo.com/malcolm-knowles-and-the-six-assumptions-underlying-andragogy/)
 1. [Andragogy](https://en.wikipedia.org/wiki/Andragogy)
 1. [AppAcademy Online Onboarding Instruction Guide](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/)
