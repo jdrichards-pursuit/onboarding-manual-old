@@ -9,7 +9,7 @@
 1. [AppAcademy Online-Onboarding-Instruction-Guide](https://github.com/jdrichards-pursuit/onboarding-manual-old/blob/main/README.md)
 1.[Code of Conduct](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/code-of-conduct.md)
 1. [Lecture Tips](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/master/resources/lecture-tips.md)
-1. [Navigate to Zoom-Room](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide/blob/)master/resources/module-zoom-room.md
+1. [Navigate to Zoom-Room](https://github.com/jdrichards-pursuit/onboarding-manual-old/blob/main/resources/module-zoom-room.md)
 1. [Computer Instructor Feedback-Average](./instructor-feedback-average.js)
 1. [Main Page](https://github.com/jdrichards-pursuit/AppAcademy-Online-Onboarding-Instruction-Guide)
 1. [Curriculum Standards](https://github.com/appacademy/curriculum-developer-guide/tree/master/curriculum-standards)
