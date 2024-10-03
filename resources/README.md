@@ -1,7 +1,14 @@
 # Resources
 
-1. [Student Code Of Conduct](code-of-conduct)
-1. [Lecture Tips](lecture-tips)1. [Navigate to Your Zoom Room](navigate-to-zoom-room)1. [Code to compute Instructor Feedback Average)(instructor-feedback-average)1. [Curriculum Developer Guide)(curriculum-developer-guide)1. [Modular Curriculum](modular-curriculum)1. [Curriculum Standards](curriculum-standards)1. [How App Academy Develops Curriculum Reading List](curriculum-development)1. [Instructor Guide](instructor-guide)
+1. [Student Code Of Conduct](./code-of-conduct.md)
+1. [Lecture Tips](lecture-tips.mdlecture-tips)
+1. [Navigate to Your Zoom Room](./module-zoom-room.md)
+1. [Code to compute Instructor Feedback Average](instructor-feedback-average.jsinstructor-feedback-average)
+1. [Curriculum Developer Guide)(./curriculum-developer-guide)
+1. [Modular Curriculum](modular-curriculum)
+1. [Curriculum Standards](curriculum-standards)
+1. [How App Academy Develops Curriculum Reading List](curriculum-development)
+1. [Instructor Guide](instructor-guide)
 1. [Adult Learning Theories](adult-learning-theories)
 1. [Malcolm Knowles and the 6 Assumptions Underlying Andragogy](malcolm-knowles-6-assumptions)
 1. [Andragogy definition](andragogy)
